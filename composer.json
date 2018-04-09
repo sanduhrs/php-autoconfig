@@ -1,0 +1,17 @@
+{
+    "name": "sanduhrs/autoconfig",
+    "type": "library",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Stefan Auditor",
+            "email": "stefan.auditor@erdfisch.de"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "sanduhrs\\Autoconfig\\": "src/"
+        }
+    }
+}
